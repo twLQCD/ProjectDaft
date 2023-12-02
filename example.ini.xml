@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Params>
+	<User name="user@email.com">
+		<Location name="Dublin (County)">
+			<!-- Other parameter searches can be added! -->
+			<!-- See https://github.com/AnthonyBloomer/daftlistings -->
+			<!-- For other parameters you can search for -->
+			<rent_min>0</rent_min> 
+			<rent_max>1800</rent_max>
+		</Location>
+	</User>
+</Params>
